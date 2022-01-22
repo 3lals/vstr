@@ -1,0 +1,367 @@
+{
+  "products": [
+  {
+    "id": 1,
+    "name": "Free Fire",
+    "slug": "free-fire",
+    "category": "topup",
+    "icon_url": "icon_ff.png",
+    "items": [
+      {
+        "id": 1,
+        "item_name": "125 Diamonds",
+        "amount": 50000
+      },
+      {
+        "id": 2,
+        "item_name": "178 Diamonds",
+        "amount": 60000
+      },
+      {
+        "id": 3,
+        "item_name": "210 Diamonds",
+        "amount": 75000
+      },
+      {
+        "id": 4,
+        "item_name": "300 Diamonds",
+        "amount": 129000
+      },
+      {
+        "id": 5,
+        "item_name": "450 Diamonds",
+        "amount": 241000
+      },
+      {
+        "id": 6,
+        "item_name": "1028 Diamonds",
+        "amount": 405000
+      }
+    ],
+    "fields": [
+      {
+        "name": "userid",
+        "type": "text"
+      }
+    ],
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "name": "Mobile Legends",
+    "slug": "mobile-legends",
+    "category": "topup",
+    "icon_url": "icon_mlbb.jpg",
+    "items": [
+      {
+        "id": 1,
+        "item_name": "125 Diamonds",
+        "amount": 20000
+      },
+      {
+        "id": 2,
+        "item_name": "178 Diamonds",
+        "amount": 35000
+      },
+      {
+        "id": 3,
+        "item_name": "210 Diamonds",
+        "amount": 64000
+      },
+      {
+        "id": 4,
+        "item_name": "300 Diamonds",
+        "amount": 81000
+      },
+      {
+        "id": 5,
+        "item_name": "450 Diamonds",
+        "amount": 174000
+      },
+      {
+        "id": 6,
+        "item_name": "1028 Diamonds",
+        "amount": 329000
+      }
+    ],
+    "fields": [
+      {
+        "name": "userid",
+        "type": "text"
+      },
+      {
+        "name": "zonaid",
+        "type": "text"
+      }
+    ],
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "name": "Valorant",
+    "slug": "valorant",
+    "category": "topup",
+    "icon_url": "icon_valorant.jpg",
+    "items": [
+      {
+        "id": 1,
+        "item_name": "125 Points",
+        "amount": 20000
+      },
+      {
+        "id": 2,
+        "item_name": "178 Points",
+        "amount": 35000
+      },
+      {
+        "id": 3,
+        "item_name": "210 Points",
+        "amount": 64000
+      },
+      {
+        "id": 4,
+        "item_name": "300 Points",
+        "amount": 81000
+      },
+      {
+        "id": 5,
+        "item_name": "450 Points",
+        "amount": 174000
+      },
+      {
+        "id": 6,
+        "item_name": "1028 Points",
+        "amount": 329000
+      }
+    ],
+    "fields": [
+      {
+        "name": "userid",
+        "type": "text"
+      }
+    ],
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "name": "Genshin Impact",
+    "slug": "genshin-impact",
+    "category": "topup",
+    "icon_url": "icon_genshin.png",
+    "items": [
+      {
+        "id": 1,
+        "item_name": "60 Genesis Crystals",
+        "amount": 16000
+      },
+      {
+        "id": 2,
+        "item_name": "330 Genesis Crystals",
+        "amount": 80000
+      },
+      {
+        "id": 3,
+        "item_name": "1090 Genesis Crystals",
+        "amount": 250000
+      },
+      {
+        "id": 4,
+        "item_name": "2240 Genesis Crystals",
+        "amount": 480000
+      },
+      {
+        "id": 5,
+        "item_name": "3880 Genesis Crystals",
+        "amount": 799000
+      },
+      {
+        "id": 6,
+        "item_name": "8080 Genesis Crystals",
+        "amount": 1599000
+      },
+      {
+        "id": 7,
+        "item_name": "Blessing of the Welkin Moon",
+        "amount": 79000
+      }
+    ],
+    "fields": [
+      {
+        "name": "userid",
+        "type": "text"
+      },
+      {
+        "name": "serverid",
+        "type": "text",
+        "servers": [
+          {
+          "id": 1,
+          "name": "America"
+          },
+          {
+          "id": 2,
+          "name": "Europe"
+          },
+          {
+          "id": 3,
+          "name": "Asia"
+          },
+          {
+          "id": 4,
+          "name": "TW, HK, MO"
+          }
+        ]
+      }
+    ],
+    "is_active": true
+  },
+  {
+    "id": 5,
+    "name": "Ragnarok X: Next Generation",
+    "slug": "ragnarok-x",
+    "category": "topup",
+    "icon_url": "icon_rox.jpg",
+    "items": [
+      {
+        "id": 1,
+        "item_name": "2450 Diamonds",
+        "amount": 75000
+      },
+      {
+        "id": 2,
+        "item_name": "5190 Diamonds",
+        "amount": 160000
+      },
+      {
+        "id": 3,
+        "item_name": "10860 Diamonds",
+        "amount": 330000
+      },
+      {
+        "id": 4,
+        "item_name": "16760 Diamonds",
+        "amount": 500000
+      },
+      {
+        "id": 5,
+        "item_name": "34810 Diamonds",
+        "amount": 1000000
+      },
+      {
+        "id": 6,
+        "item_name": "55690 Diamonds",
+        "amount": 1600000
+      },
+      {
+        "id": 7,
+        "item_name": "174020 Diamonds",
+        "amount": 5000000
+      },
+      {
+        "id": 8,
+        "item_name": "348030 Diamonds",
+        "amount": 10000000
+      },
+      {
+        "id": 9,
+        "item_name": "1044090 Diamonds",
+        "amount": 30000000
+      },
+      {
+        "id": 10,
+        "item_name": "Kafra's Trial Card",
+        "amount": 75000
+      },
+      {
+        "id": 11,
+        "item_name": "Kafra's VIP Card",
+        "amount": 236000
+      }
+    ],
+    "fields": [
+      {
+        "name": "userid",
+        "type": "text"
+      },
+      {
+        "name": "serverid",
+        "type": "text",
+        "servers": [
+          {
+          "id": 1,
+          "name": "Gatotkaca"
+          },
+          {
+          "id": 2,
+          "name": "Wing of Blessing"
+          },
+          {
+          "id": 3,
+          "name": "Angeling"
+          },
+          {
+          "id": 4,
+          "name": "Valhalla"
+          },
+          {
+          "id": 5,
+          "name": "Majapahit"
+          }
+        ]
+      }
+    ],
+    "is_active": true
+  },
+  {
+    "id": 6,
+    "name": "Megaxus Cash",
+    "slug": "megaxus",
+    "category": "voucher",
+    "icon_url": "icon_megaxus.jpg",
+    "items": [
+      {
+        "id": 1,
+        "item_name": "10.000 Mi-cash",
+        "amount": 10900
+      },
+      {
+        "id": 2,
+        "item_name": "20.000 Mi-cash",
+        "amount": 21800
+      },
+      {
+        "id": 3,
+        "item_name": "50.000 Mi-cash",
+        "amount": 54500
+      },
+      {
+        "id": 4,
+        "item_name": "100.000 Mi-cash",
+        "amount": 109000
+      },
+      {
+        "id": 5,
+        "item_name": "210.000 Mi-cash",
+        "amount": 220000
+      },
+      {
+        "id": 6,
+        "item_name": "550.000 Mi-cash",
+        "amount": 545000
+      },
+      {
+        "id": 7,
+        "item_name": "1.000.000 Mi-cash",
+        "amount": 1005000
+      }
+    ],
+    "fields": [
+      {
+        "name": "userid",
+        "type": "text"
+      }
+    ],
+    "is_active": true
+  }
+]
+}
